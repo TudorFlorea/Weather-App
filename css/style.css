@@ -1,0 +1,42 @@
+#title {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+
+#city {
+    color: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+#temp {
+    color: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+
+#temp i {
+    color: white;
+    font-size: 40px;
+}
+
+#description {
+    color: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+
+#icon {
+    color: white;
+    font-size: 85px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#changeDeg {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #eee;
+    color: black;
+}

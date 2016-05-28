@@ -1,0 +1,294 @@
+[
+  {
+    "id": 200,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 201,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 202,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 210,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 211,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 212,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 221,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 230,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 231,
+    "icon": "<i class='wi wi-storm-showers'></i>"
+  },
+  {
+    "id": 232,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 300,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 301,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 302,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 310,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 311,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 312,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 313,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 314,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 321,
+    "icon": "<i class='wi wi-sleet'></i>"
+  },
+  {
+    "id": 500,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 501,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 502,
+    "icon": "<i class='wi wi-rain-wind'></i>"
+  },
+  {
+    "id": 503,
+    "icon": "<i class='wi wi-rain-wind'></i>"
+  },
+  {
+    "id": 504,
+    "icon": "<i class='wi wi-rain-wind'></i>"
+  },
+  {
+    "id": 511,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 520,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 521,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 522,
+    "icon": "<i class='wi wi-rain-wind'></i>"
+  },
+  {
+    "id": 531,
+    "icon": "<i class='wi wi-rain'></i>"
+  },
+  {
+    "id": 600,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 601,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 602,
+    "icon": "<i class='wi wi-snow-wind'></i>"
+  },
+  {
+    "id": 611,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 612,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 615,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 616,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 620,
+    "icon": "<i class='wi wi-snow'></i>"
+  },
+  {
+    "id": 621,
+    "icon": "<i class='wi wi-snow-wind'></i>"
+  },
+  {
+    "id": 622,
+    "icon": "<i class='wi wi-snow-wind'></i>"
+  },
+  {
+    "id": 701,
+    "icon": "<i class='wi wi-fog'></i>"
+  },
+  {
+    "id": 711,
+    "icon": "<i class='wi wi-dust'></i>"
+  },
+  {
+    "id": 721,
+    "icon": "<i class='wi wi-dust'></i>"
+  },
+  {
+    "id": 731,
+    "icon": "<i class='wi wi-tornado'></i>"
+  },
+  {
+    "id": 741,
+    "icon": "<i class='wi wi-fog'></i>"
+  },
+  {
+    "id": 751,
+    "icon": "<i class='wi wi-sandstorm'></i>"
+  },
+  {
+    "id": 761,
+    "icon": "<i class='wi wi-dust'></i>"
+  },
+  {
+    "id": 762,
+    "icon": "<i class='wi wi-dust'></i>"
+  },
+  {
+    "id": 771,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 781,
+    "icon": "<i class='wi wi-tornado'></i>"
+  },
+  {
+    "id": 800,
+    "icon": "<i class='wi wi-day-sunny'></i>"
+  },
+  {
+    "id": 801,
+    "icon": "<i class='wi wi-cloud'></i>"
+  },
+  {
+    "id": 802,
+    "icon": "<i class='wi wi-cloud'></i>"
+  },
+  {
+    "id": 803,
+    "icon": "<i class='wi wi-cloudy'></i>"
+  },
+  {
+    "id": 804,
+    "icon": "<i class='wi wi-cloudy'></i>"
+  },
+  {
+    "id": 900,
+    "icon": "<i class='wi wi-tornado'></i>"
+  },
+  {
+    "id": 901,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 902,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 903,
+    "icon": "<i class='wi wi-snowflake-cold'></i>"
+  },
+  {
+    "id": 904,
+    "icon": "<i class='wi wi-hot'></i>"
+  },
+  {
+    "id": 905,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 906,
+    "icon": "<i class='wi wi-hail'></i>"
+  },
+  {
+    "id": 951,
+    "icon": "<i class='wi wi-day-sunny'></i>"
+  },
+  {
+    "id": 952,
+    "icon": "<i class='wi wi-windy'></i>"
+  },
+  {
+    "id": 953,
+    "icon": "<i class='wi wi-windy'></i>"
+  },
+  {
+    "id": 954,
+    "icon": "<i class='wi wi-windy'></i>"
+  },
+  {
+    "id": 955,
+    "icon": "<i class='wi wi-windy'></i>"
+  },
+  {
+    "id": 956,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 957,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 958,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 959,
+    "icon": "<i class='wi wi-strong-wind'></i>"
+  },
+  {
+    "id": 960,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 961,
+    "icon": "<i class='wi wi-thunderstorm'></i>"
+  },
+  {
+    "id": 962,
+    "icon": "<i class='wi wi-hurricane'></i>"
+  }
+]
